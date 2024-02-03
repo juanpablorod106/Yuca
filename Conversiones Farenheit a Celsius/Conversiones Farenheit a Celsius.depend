@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706994609 source:c:\users\labpc\desktop\conversiones farenheit a celsius\main.c
+	<stdio.h>
+	<stdlib.h>
+
